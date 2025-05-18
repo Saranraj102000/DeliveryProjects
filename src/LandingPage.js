@@ -142,7 +142,7 @@ const LandingPage = () => {
                 Showcasing Excellence
               </span>
               <br />
-              in Every Project
+              in Every Pro
             </h1>
             <p className="hero-description fade-in-up">
               Explore our portfolio of innovative solutions and successful projects
